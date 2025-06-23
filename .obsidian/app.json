@@ -3,5 +3,10 @@
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "uriCallbacks": true
 }

@@ -5,15 +5,15 @@
   "obsidian-latex-environments",
   "calctex",
   "dataview",
-  "google-calendar",
-  "heatmap-calendar",
   "periodic-notes",
   "quickadd",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin",
   "tag-wrangler",
-  "templater-obsidian",
   "obsidian-outliner",
   "obsidian-spaced-repetition",
-  "flashcards-obsidian"
+  "flashcards-obsidian",
+  "obsidian-icon-folder",
+  "cycle-through-panes",
+  "link-opening-restore",
+  "mouse-navigation"
 ]

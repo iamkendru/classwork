@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8466991bfa0fbd21",
+        "id": "6b46cb1727094f94",
         "type": "tabs",
         "children": [
           {
-            "id": "e15487769e0ab0aa",
+            "id": "025b3b8d78721680",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,8 +93,79 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8669c5438434d61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "820871cb09834874",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4c14bc5347a96091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6774ee0ca1fceaa7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "34534fd8e7fd8a1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -121,11 +192,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e15487769e0ab0aa",
+  "active": "025b3b8d78721680",
   "lastOpenFiles": [
+    "Templates/Untitled/Untitled 1.canvas",
+    "Templates/Untitled/Untitled.canvas",
+    "Templates/Untitled",
+    "Templates/Untitled.canvas",
+    "Templates/Untitled Kanban.md",
     "Tables/Untitled/Untitled.canvas",
     "Tables/Untitled",
-    "Templates/Untitled.canvas",
     "2025-06-23.md",
     "Notes/AI/test.md",
     "Templates/today.md",
@@ -152,7 +227,6 @@
     "Untitled 1.md",
     "vault-config.md",
     "README.md",
-    "Notes/DSAP",
-    "References"
+    "Notes/DSAP"
   ]
 }
