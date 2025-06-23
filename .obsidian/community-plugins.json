@@ -1,3 +1,19 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-latex-suite",
+  "obsidian-latex-environments",
+  "calctex",
+  "dataview",
+  "google-calendar",
+  "heatmap-calendar",
+  "periodic-notes",
+  "quickadd",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "tag-wrangler",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-spaced-repetition",
+  "flashcards-obsidian"
 ]
