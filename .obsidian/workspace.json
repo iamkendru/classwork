@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/DataMining/Lab5/Lab5.md",
+                "file": "Assignments/DataMining/Lab6/Lab6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab5"
+              "title": "Lab6"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b434c3d7d6108",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments/DataMining/Lab5/Lab5.md",
+                "file": "Assignments/DataMining/Lab6/Lab6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lab5"
+              "title": "Backlinks for Lab6"
             }
           },
           {
@@ -136,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments/DataMining/Lab5/Lab5.md",
+                "file": "Assignments/DataMining/Lab6/Lab6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lab5"
+              "title": "Outgoing links from Lab6"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignments/DataMining/Lab5/Lab5.md",
+                "file": "Assignments/DataMining/Lab6/Lab6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab5"
+              "title": "Outline of Lab6"
             }
           },
           {
@@ -212,8 +211,8 @@
   },
   "active": "2637d7fbf47a2ffb",
   "lastOpenFiles": [
-    "Assignments/DataMining/Lab6/Lab6.md",
     "Assignments/DataMining/Lab5/Lab5.md",
+    "Assignments/DataMining/Lab6/Lab6.md",
     "Assignments/DataMining/Lab6",
     "Assignments/DataMining/Lab4/Lab4.md",
     "Assignments/DataMining/Lab5",
