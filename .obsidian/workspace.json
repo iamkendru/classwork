@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -180,7 +180,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "76c726ae90c2176b",
+  "active": "025b3b8d78721680",
   "lastOpenFiles": [
     "Assignments/DataMining/LabAssignments/Lab.md",
     "README.md",
