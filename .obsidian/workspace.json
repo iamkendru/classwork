@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6761129a434498",
+        "id": "12d217da68625c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "7e9f1ee12147a0e9",
+            "id": "3f6f0f026bf360dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignments/DataMining/Lab3/Lab3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab3"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b434c3d7d6108",
@@ -117,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments/DataMining/Lab3/Lab3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lab3"
+              "title": "Backlinks"
             }
           },
           {
@@ -136,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments/DataMining/Lab3/Lab3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lab3"
+              "title": "Outgoing links"
             }
           },
           {
@@ -165,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignments/DataMining/Lab3/Lab3.md",
+                "file": "Templates/Untitled 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab3"
+              "title": "Outline of Untitled 2"
             }
           },
           {
@@ -188,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +204,20 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "7e9f1ee12147a0e9",
+  "active": "8714a822d63cb1a8",
   "lastOpenFiles": [
+    "Templates/Untitled 1.md",
+    "Templates/Untitled 2.md",
+    "Templates/Untitled.md",
+    "Templates/python.md",
+    "Assignments/DataMining/Lab4/Lab4.md",
+    "Assignments/DataMining/Lab3/Lab3.md",
+    "Assignments/DataMining/Lab4",
     "Assignments/DataMining/Lab1/Lab1.md",
     "Assignments/DataMining/Lab2/Lab2.md",
-    "Assignments/DataMining/Lab3/Lab3.md",
     "Assignments/DataMining/Lab3",
     "Assignments/DataMining/Lab2",
     "Untitled 1.md",
-    "Templates/python.md",
     "vault-config.md",
     "README.md",
     "Notes/DSAP",
@@ -227,7 +226,6 @@
     "Images",
     "Notes",
     "Notes/Wireless Communication",
-    "Notes/AI",
-    "Notes/RF and microwave"
+    "Notes/AI"
   ]
 }
