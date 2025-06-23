@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "110f7ff9423fb14f",
+        "id": "8466991bfa0fbd21",
         "type": "tabs",
         "children": [
           {
-            "id": "2637d7fbf47a2ffb",
+            "id": "e15487769e0ab0aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assignments/DataMining/Lab6/Lab6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab6"
+              "title": "New tab"
             }
           }
         ]
@@ -91,96 +87,11 @@
           {
             "id": "76c726ae90c2176b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
-              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "0595c6c1dbe5a65c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fe795642ba231ca1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Assignments/DataMining/Lab6/Lab6.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Lab6"
-            }
-          },
-          {
-            "id": "2fee48c834bd8530",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Assignments/DataMining/Lab6/Lab6.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Lab6"
-            }
-          },
-          {
-            "id": "9647d7e3ec355229",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "0e7a4ad0f47c2e72",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Assignments/DataMining/Lab6/Lab6.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Lab6"
-            }
-          },
-          {
-            "id": "9212aa01922e88c5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
             }
           }
         ]
@@ -206,20 +117,28 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2637d7fbf47a2ffb",
+  "active": "e15487769e0ab0aa",
   "lastOpenFiles": [
-    "Assignments/DataMining/Lab5/Lab5.md",
+    "Templates/today.md",
+    "Templates/template.md",
+    "Templates/Untitled.canvas",
+    "Templates/Untitled 1.canvas",
+    "Templates",
+    "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw 1.md",
     "Assignments/DataMining/Lab6/Lab6.md",
+    "Excalidraw",
+    "Assignments/DataMining/Lab5/Lab5.md",
     "Assignments/DataMining/Lab6",
     "Assignments/DataMining/Lab4/Lab4.md",
     "Assignments/DataMining/Lab5",
     "Assignments/DataMining/Lab2/Lab2.md",
     "Templates/Untitled 2.md",
     "Templates/Untitled 1.md",
-    "Templates/Untitled.md",
     "Templates/python.md",
     "Assignments/DataMining/Lab3/Lab3.md",
     "Assignments/DataMining/Lab4",
@@ -231,8 +150,6 @@
     "README.md",
     "Notes/DSAP",
     "References",
-    "Tables",
-    "Images",
-    "Notes"
+    "Tables"
   ]
 }
