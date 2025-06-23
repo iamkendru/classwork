@@ -1,3 +1,5 @@
+[[Lab]]
+
 ```python
 # Question 1
 f_name = input("Enter your first name: ")

@@ -11,10 +11,15 @@
             "id": "025b3b8d78721680",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -95,34 +100,17 @@
             }
           },
           {
-            "id": "8669c5438434d61f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "820871cb09834874",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -131,12 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -164,8 +153,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,8 +180,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "025b3b8d78721680",
+  "active": "76c726ae90c2176b",
   "lastOpenFiles": [
+    "Assignments/DataMining/LabAssignments/Lab.md",
+    "README.md",
+    "Assignments/DataMining/Lab6/Lab6.md",
+    "Assignments/DataMining/Lab5/Lab5.md",
+    "Assignments/DataMining/Lab4/Lab4.md",
+    "Assignments/DataMining/Lab3/Lab3.md",
+    "Assignments/DataMining/Lab2/Lab2.md",
+    "Assignments/DataMining/Lab1/Lab1.md",
+    "Assignments/DataMining/LabAssignments",
     "Templates/Untitled/Untitled 1.canvas",
     "Templates/Untitled/Untitled.canvas",
     "Templates/Untitled",
@@ -209,24 +206,16 @@
     "Templates",
     "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw.md",
     "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw 1.md",
-    "Assignments/DataMining/Lab6/Lab6.md",
     "Excalidraw",
-    "Assignments/DataMining/Lab5/Lab5.md",
     "Assignments/DataMining/Lab6",
-    "Assignments/DataMining/Lab4/Lab4.md",
     "Assignments/DataMining/Lab5",
-    "Assignments/DataMining/Lab2/Lab2.md",
     "Templates/Untitled 2.md",
     "Templates/Untitled 1.md",
     "Templates/python.md",
-    "Assignments/DataMining/Lab3/Lab3.md",
     "Assignments/DataMining/Lab4",
-    "Assignments/DataMining/Lab1/Lab1.md",
     "Assignments/DataMining/Lab3",
     "Assignments/DataMining/Lab2",
     "Untitled 1.md",
-    "vault-config.md",
-    "README.md",
-    "Notes/DSAP"
+    "vault-config.md"
   ]
 }

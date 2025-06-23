@@ -1,3 +1,4 @@
+[[Lab]]
 
 ```python
 import numpy as np

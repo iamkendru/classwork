@@ -1,3 +1,5 @@
+[[Lab]]
+
 # Class
 ```python
 import matplotlib.pyplot as plt

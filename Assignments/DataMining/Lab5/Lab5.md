@@ -1,3 +1,5 @@
+[[Lab]]
+
 # 1
 ```python
 import numpy as np
