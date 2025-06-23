@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c6d0afdbc66aa99",
+        "id": "f1fa486572ec83af",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd23fed5ccc6933",
+            "id": "1556d14ae38b010f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,8 +133,20 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "76c726ae90c2176b",
+  "active": "1556d14ae38b010f",
   "lastOpenFiles": [
+    "vault-config.md",
+    "README.md",
+    "Untitled.md",
+    "Notes/DSAP",
+    "References",
+    "Tables",
+    "Images",
+    "Notes",
+    "Notes/Wireless Communication",
+    "Notes/AI",
+    "Notes/RF and microwave",
+    "Notes/DataMining",
     "Templates/python.md",
     "Templates"
   ]
