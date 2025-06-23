@@ -1,0 +1,44 @@
+# --- IGNORE TEMP & DEVICE-SPECIFIC FILES ---
+
+# UI layout and runtime cache
+.obsidian/workspace
+.obsidian/cache
+
+# macOS & system junk
+.DS_Store
+Thumbs.db
+._*
+
+# --- IGNORE HEAVY OR DEVICE-SPECIFIC PLUGINS ---
+
+# Ignore Git/Sync plugins (GitHub, Obsidian Git, Remotely Save)
+.obsidian/plugins/obsidian-git/
+.obsidian/plugins/remote-save/
+.obsidian/plugins/obsidian-livesync/
+
+# (Optional) Ignore other nonessential/large plugins
+.obsidian/plugins/file-explorer/
+.obsidian/plugins/obsidian-pandoc/
+
+# --- ALLOW ESSENTIAL FILES ---
+
+# Allow core plugin configs & vault settings
+!.obsidian/
+!.obsidian/app.json
+!.obsidian/core-plugins.json
+!.obsidian/hotkeys.json
+!.obsidian/appearance.json
+
+# Allow selected essential plugins (e.g., math, markdown tables, etc.)
+!.obsidian/plugins/obsidian-mathjax/
+!.obsidian/plugins/obsidian-admonition/
+!.obsidian/plugins/obsidian-table-editor/
+!.obsidian/plugins/obsidian-latex-suite/
+
+# Allow themes for consistent look
+!.obsidian/themes/
+
+# (Optional) Keep your vault index or README
+!README.md
+!vault-index.md
+
