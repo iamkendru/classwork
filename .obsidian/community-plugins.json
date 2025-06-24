@@ -11,5 +11,9 @@
   "obsidian-icon-folder",
   "cycle-through-panes",
   "js-engine",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "vimium",
+  "obsidian-vimrc-support",
+  "terminal",
+  "obsidian-shellcommands"
 ]
