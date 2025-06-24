@@ -22,7 +22,9 @@ Thumbs.db
 # (Optional) Ignore other nonessential/large plugins
 .obsidian/plugins/file-explorer/
 .obsidian/plugins/obsidian-pandoc/
-
+.obsidian/plugins/vimium
+.obsidian/plugins/terminal
+.obsidian/plugins/obsidian-vimrc-support
 # --- ALLOW ESSENTIAL FILES ---
 
 # Allow core plugin configs & vault settings
@@ -34,7 +36,6 @@ Thumbs.db
 
 # Allow selected essential plugins (e.g., math, markdown tables, etc.)
 !.obsidian/plugins/obsidian-mathjax/
-!.obsidian/plugins/obsidian-admonition/
 !.obsidian/plugins/obsidian-table-editor/
 !.obsidian/plugins/obsidian-latex-suite/
 
