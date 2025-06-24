@@ -3,7 +3,10 @@
 # UI layout and runtime cache
 .obsidian/workspace
 .obsidian/cache
-
+.trash
+.obsidian/plugins/obsidian-git
+.obsidian/plugins/GitHub
+.obsidian/plugins/Git
 # macOS & system junk
 .DS_Store
 Thumbs.db
