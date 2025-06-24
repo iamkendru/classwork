@@ -42,3 +42,9 @@ Thumbs.db
 !README.md
 !vault-index.md
 
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

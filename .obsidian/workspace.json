@@ -129,16 +129,6 @@
             }
           },
           {
-            "id": "6774ee0ca1fceaa7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
             "id": "34534fd8e7fd8a1f",
             "type": "leaf",
             "state": {
@@ -165,7 +155,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
@@ -173,17 +162,20 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "025b3b8d78721680",
+  "active": "76c726ae90c2176b",
   "lastOpenFiles": [
-    "Assignments/DataMining/LabAssignments/Lab.md",
     "README.md",
+    "Templates/Untitled.canvas",
+    "References/Untitled.md",
+    "Assignments/DataMining/LabAssignments/Lab.md",
     "Assignments/DataMining/Lab6/Lab6.md",
     "Assignments/DataMining/Lab5/Lab5.md",
     "Assignments/DataMining/Lab4/Lab4.md",
@@ -194,7 +186,6 @@
     "Templates/Untitled/Untitled 1.canvas",
     "Templates/Untitled/Untitled.canvas",
     "Templates/Untitled",
-    "Templates/Untitled.canvas",
     "Templates/Untitled Kanban.md",
     "Tables/Untitled/Untitled.canvas",
     "Tables/Untitled",

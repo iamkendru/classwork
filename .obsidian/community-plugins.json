@@ -5,15 +5,12 @@
   "obsidian-latex-environments",
   "calctex",
   "dataview",
-  "periodic-notes",
-  "quickadd",
   "obsidian-kanban",
   "tag-wrangler",
-  "obsidian-outliner",
-  "obsidian-spaced-repetition",
   "flashcards-obsidian",
   "obsidian-icon-folder",
   "cycle-through-panes",
-  "link-opening-restore",
-  "mouse-navigation"
+  "mouse-navigation",
+  "js-engine",
+  "smart-connections"
 ]
