@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "891e7f366c4663ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignments/Wireless Communication/Assignment 1/Assignment 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,18 +179,23 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "flashcards-obsidian:Generate flashcards": false,
       "workspaces:Manage workspace layouts": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "025b3b8d78721680",
+  "active": "8714a822d63cb1a8",
   "lastOpenFiles": [
+    "Assignments/Wireless Communication/Assignment 1/proper-improper handoff.png",
     "README.md",
+    "Assignments/Wireless Communication/Assignment 1/Assignment 1.md",
+    "Notes/Wireless Communication/1&2/Untitled.canvas",
+    "Assignments/Wireless Communication/Assignment 1/Chapter 1 and 2",
+    "Assignments/Wireless Communication/Assignment 1",
+    "Assignments/Wireless Communication",
+    "Notes/Wireless Communication/1&2",
+    "Notes/Wireless Communication/1",
+    "Notes/Wireless Communication/Untitled",
     "Templates/Test.md",
     "Templates/Untitled.canvas",
     "References/Untitled.md",
@@ -199,15 +221,9 @@
     "Templates",
     "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw.md",
     "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw 1.md",
-    "Excalidraw",
-    "Assignments/DataMining/Lab6",
-    "Assignments/DataMining/Lab5",
     "Templates/Untitled 2.md",
     "Templates/Untitled 1.md",
     "Templates/python.md",
-    "Assignments/DataMining/Lab4",
-    "Assignments/DataMining/Lab3",
-    "Assignments/DataMining/Lab2",
     "Untitled 1.md",
     "vault-config.md"
   ]
