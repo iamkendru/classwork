@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "table-editor-obsidian",
   "obsidian-latex-suite",
   "obsidian-latex-environments",
@@ -7,13 +6,8 @@
   "dataview",
   "obsidian-kanban",
   "tag-wrangler",
-  "flashcards-obsidian",
   "obsidian-icon-folder",
   "cycle-through-panes",
-  "js-engine",
   "obsidian-advanced-uri",
-  "vimium",
-  "obsidian-vimrc-support",
-  "terminal",
-  "obsidian-shellcommands"
+  "fit"
 ]

@@ -18,13 +18,14 @@ Thumbs.db
 .obsidian/plugins/obsidian-git/
 .obsidian/plugins/remote-save/
 .obsidian/plugins/obsidian-livesync/
-
+.obsidian/plugins/workspace.json
 # (Optional) Ignore other nonessential/large plugins
 .obsidian/plugins/file-explorer/
 .obsidian/plugins/obsidian-pandoc/
 .obsidian/plugins/vimium
 .obsidian/plugins/terminal
 .obsidian/plugins/obsidian-vimrc-support
+.obsidian/plugins
 # --- ALLOW ESSENTIAL FILES ---
 
 # Allow core plugin configs & vault settings
