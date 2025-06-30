@@ -11,10 +11,15 @@
             "id": "70f0b9a9d393723b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Assignments/Wireless Communication/Assignment 1/Assignment 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Assignment 1"
             }
           }
         ]
@@ -132,9 +137,15 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "fit:Fit Sync": false
     }
   },
   "active": "70f0b9a9d393723b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Images/proper-improper handoff.png",
+    "proper-improper handoff.png",
+    "Assignments/proper-improper handoff.png",
+    "Assignments/Wireless Communication/proper-improper handoff.png"
+  ]
 }
