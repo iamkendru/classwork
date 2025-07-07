@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Assignments/AI/By Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from By Resolution"
             }
           },
           {
@@ -159,6 +159,16 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "560d5c179632bc18",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ]
       }
@@ -186,7 +196,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "79d0cd3532c552d6",
+  "active": "76c726ae90c2176b",
   "lastOpenFiles": [
     "Assignments/AI/By Resolution.md",
     "Assignments/Wireless Communication/Assignment 1/Assignment 1.md",

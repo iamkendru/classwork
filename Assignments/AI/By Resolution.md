@@ -31,3 +31,51 @@ Converting to CNF
 4. $\neg$Student(x) $\vee$ Studies(x) $\vee$ $\neg$Pass(x)
 5. Plas(x) $\wedge$ $\neg$FootballStar(x)
 
+**Negated theorem (to refute):**
+	$\neg$($\neg$Studies(John)$\rightarrow$ $\neg$Loves(m, John))
+	$\rightarrow$ That is: Studies(John) $\vee$ Loves(m, John)
+	So the clause for negated theorem:
+	**Clause 6: $\neg$Studies(John)
+	Clause 7: Loves(m, John)**
+
+Resolution Graph/Tree
+
+```mermaid
+graph TD
+    A1["Clause 7: Loves(m, John)"]
+    A2["Clause 1: ¬Loves(m, John) ∨ FootballStar(John)"]
+    B["Clause 8: FootballStar(John)"]
+
+    B2["Clause 5: Plays(John) ∨ ¬FootballStar(John)"]
+    C["Clause 9: Plays(John)"]
+
+    C2["Clause 2: ¬Student(John) ∨ Pass(John) ∨ ¬Plays(John)"]
+    D["Clause 10: Pass(John)"]
+
+    D2["Clause 4: ¬Student(John) ∨ Studies(John) ∨ ¬Pass(John)"]
+    E["Clause 11: Studies(John)"]
+
+    F["Clause 6: ¬Studies(John)"]
+    Z["Contradiction (□)"]
+
+    %% Tree connections
+    A1 --> B
+    A2 --> B
+
+    B --> C
+    B2 --> C
+
+    C --> D
+    C2 --> D
+
+    D --> E
+    D2 --> E
+
+    E --> Z
+    F --> Z
+```
+
+
+_Conclusion_
+We've reached a contradiction, which means out negation is fale. Thus, the original statement is true:
+	If John does not study, then Mary does not love John.
