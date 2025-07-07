@@ -29,14 +29,14 @@ Converting to CNF
 2. $\neg$Student(x) $\vee$ Pass(x) $\vee$ $\neg$Plays(x)
 3. Student(John)
 4. $\neg$Student(x) $\vee$ Studies(x) $\vee$ $\neg$Pass(x)
-5. Plas(x) $\wedge$ $\neg$FootballStar(x)
+5. Plays(x) $\wedge$ $\neg$FootballStar(x)
 
-**Negated theorem (to refute):**
+**Negated theorem (to refute):**  
 	$\neg$($\neg$Studies(John)$\rightarrow$ $\neg$Loves(m, John))
-	$\rightarrow$ That is: Studies(John) $\vee$ Loves(m, John)
-	So the clause for negated theorem:
-	**Clause 6: $\neg$Studies(John)
-	Clause 7: Loves(m, John)**
+	$\rightarrow$ That is: Studies(John) $\vee$ Loves(m, John)  
+	So the clause for negated theorem:  
+	**Clause 6: $\neg$Studies(John)  
+	Clause 7: Loves(m, John)**  
 
 Resolution Graph/Tree
 
