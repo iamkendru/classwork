@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/AI/By Resolution.md",
+                "file": "Notes/Wireless Communication/Chapter 1/Introduction.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "By Resolution"
+              "title": "Introduction"
             }
           }
         ]
@@ -149,8 +149,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -161,7 +161,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,18 +169,23 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "workspaces:Manage workspace layouts": false,
       "terminal:Open terminal": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "79d0cd3532c552d6",
   "lastOpenFiles": [
     "Assignments/Wireless Communication/Assignment 1/Assignment 1.md",
+    "Notes/Wireless Communication/Chapter 1/Introduction.md",
+    "Notes/Wireless Communication/Chapter 1",
+    "Notes/Wireless Communication",
+    "Assignments/Wireless Communication/Assignment 1/proper-improper handoff.png",
     "Assignments/AI/By Resolution.md",
     "Assignments/AI",
     "Assignments/Wireless Communication/Assignments.md",
@@ -189,14 +193,12 @@
     "Assignments/Wireless Communication/Assignments Links",
     "Assignments/Wireless Communication/Untitled",
     "README.md",
-    "Assignments/Wireless Communication/Assignment 1/proper-improper handoff.png",
     "Notes/Wireless Communication/1&2/Untitled.canvas",
     "Assignments/Wireless Communication/Assignment 1/Chapter 1 and 2",
     "Assignments/Wireless Communication/Assignment 1",
     "Assignments/Wireless Communication",
     "Notes/Wireless Communication/1&2",
     "Notes/Wireless Communication/1",
-    "Notes/Wireless Communication/Untitled",
     "Templates/Test.md",
     "Templates/Untitled.canvas",
     "References/Untitled.md",
@@ -206,7 +208,6 @@
     "Assignments/DataMining/Lab3/Lab3.md",
     "Assignments/DataMining/Lab2/Lab2.md",
     "Assignments/DataMining/Lab1/Lab1.md",
-    "Assignments/DataMining/LabAssignments",
     "Templates/Untitled/Untitled 1.canvas",
     "Templates/Untitled/Untitled.canvas",
     "Templates/Untitled Kanban.md",
