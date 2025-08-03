@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Wireless Communication/Chapter 1/Introduction.md",
-                "mode": "preview",
+                "file": "Notes/Wireless Communication/Chapter 2/Cellular Mobile Communication Concept.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Cellular Mobile Communication Concept"
             }
           }
         ]
@@ -144,20 +144,22 @@
             }
           },
           {
-            "id": "560d5c179632bc18",
+            "id": "718742d114af25e9",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +178,21 @@
       "flashcards-obsidian:Generate flashcards": false,
       "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8714a822d63cb1a8",
+  "active": "79d0cd3532c552d6",
   "lastOpenFiles": [
-    "Untitled/Untitled.canvas",
+    "Excalidraw/Untitled.md",
+    "Notes/Wireless Communication/Chapter 2/Cellular Mobile Communication Concept.md",
+    "Notes/Wireless Communication/Chapter 2/Untitled",
+    "Notes/Wireless Communication/Chapter 2/Drawing 2025-08-03 12.51.03.excalidraw.md",
+    "Notes/Wireless Communication/Chapter 2/Cellular mobile communication concept.md",
+    "Pasted Image 20250803125216_100.svg",
+    "Excalidraw",
     "Untitled/Untitled Kanban.md",
+    "Untitled/Untitled.canvas",
     "Notes/Wireless Communication/Chapter 1/Introduction.md",
     "Untitled",
     "Notes/Wireless Communication/Chapter 2",
@@ -199,8 +209,6 @@
     "README.md",
     "Notes/Wireless Communication/1&2/Untitled.canvas",
     "Assignments/Wireless Communication/Assignment 1/Chapter 1 and 2",
-    "Assignments/Wireless Communication/Assignment 1",
-    "Assignments/Wireless Communication",
     "Templates/Test.md",
     "Templates/Untitled.canvas",
     "References/Untitled.md",
@@ -220,9 +228,6 @@
     "Templates/template.md",
     "Templates/Untitled 1.canvas",
     "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw 1.md",
-    "Templates/Untitled 2.md",
-    "Templates/Untitled 1.md",
-    "Templates/python.md"
+    "Excalidraw/Drawing 2025-06-23 23.04.46.excalidraw 1.md"
   ]
 }

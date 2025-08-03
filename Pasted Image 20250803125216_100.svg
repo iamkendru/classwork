@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="350" viewBox="0 0 400 350">
+  <defs>
+    <polygon id="hex" points="30,0 60,15 60,45 30,60 0,45 0,15" stroke="black" fill="none"/>
+  </defs>
+  <use href="#hex" x="0" y="0"/>
+  <use href="#hex" x="60" y="0"/>
+  <use href="#hex" x="30" y="52"/>
+  <use href="#hex" x="90" y="52"/>
+  <use href="#hex" x="60" y="104"/>
+  <use href="#hex" x="0" y="104"/>
+</svg>
